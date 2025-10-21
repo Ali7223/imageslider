@@ -1,19 +1,25 @@
 # React Image Slider
 
-A simple React.js image slider/carousel with:
+A simple **React.js image slider/carousel** with the following features:
 
-- Autoplay every 3 seconds
-- Navigation arrows
-- Clickable dots
-- Fixed slider dimensions (600x400px)
+- **Autoplay** every 3 seconds  
+- **Navigation arrows** for next/previous slides  
+- **Clickable dots** for direct slide selection  
+- **Fixed slider dimensions** (600x400px)  
+
+---
+
+## Demo
+
+- **Live demo:** [https://Ali7223.github.io/imageslider/](https://Ali7223.github.io/imageslider/)  
+- **GitHub repository:** [imageslider](https://github.com/Ali7223/imageslider)  
+
+---
 
 ## How to Run
 
-```bash
-npm install
-npm start
+1. **Clone the repository**
 
-**Live deployment**
-This React image slider is deployed on GitHub Pages for a live demo.
-It uses gh-pages to automatically build and publish the app, ensuring all JavaScript, CSS, and assets load correctly.
-Live demo: https://Ali7223.github.io/imageslider/
+```bash
+git clone https://github.com/Ali7223/imageslider.git
+
